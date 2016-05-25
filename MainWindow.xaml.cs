@@ -24,5 +24,10 @@ namespace Mattermost_WPF
         {
             InitializeComponent();
         }
+
+        private void textBox_TextChanged(object sender, TextChangedEventArgs e)
+        {
+
+        }
     }
 }

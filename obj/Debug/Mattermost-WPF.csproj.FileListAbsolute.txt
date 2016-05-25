@@ -1,1 +1,14 @@
 F:\My Documents\Projects\github.com\davidlu1997\Mattermost-WPF\bin\Debug\Mattermost-WPF.exe.config
+F:\My Documents\Projects\github.com\davidlu1997\Mattermost-WPF\bin\Debug\Mattermost-WPF.exe
+F:\My Documents\Projects\github.com\davidlu1997\Mattermost-WPF\bin\Debug\Mattermost-WPF.pdb
+F:\My Documents\Projects\github.com\davidlu1997\Mattermost-WPF\obj\Debug\Mattermost-WPF.csprojResolveAssemblyReference.cache
+F:\My Documents\Projects\github.com\davidlu1997\Mattermost-WPF\obj\Debug\MainWindow.g.cs
+F:\My Documents\Projects\github.com\davidlu1997\Mattermost-WPF\obj\Debug\App.g.cs
+F:\My Documents\Projects\github.com\davidlu1997\Mattermost-WPF\obj\Debug\Mattermost-WPF_MarkupCompile.cache
+F:\My Documents\Projects\github.com\davidlu1997\Mattermost-WPF\obj\Debug\Mattermost-WPF_MarkupCompile.lref
+F:\My Documents\Projects\github.com\davidlu1997\Mattermost-WPF\obj\Debug\MainWindow.baml
+F:\My Documents\Projects\github.com\davidlu1997\Mattermost-WPF\obj\Debug\Mattermost-WPF.g.resources
+F:\My Documents\Projects\github.com\davidlu1997\Mattermost-WPF\obj\Debug\Mattermost_WPF.Properties.Resources.resources
+F:\My Documents\Projects\github.com\davidlu1997\Mattermost-WPF\obj\Debug\Mattermost-WPF.csproj.GenerateResource.Cache
+F:\My Documents\Projects\github.com\davidlu1997\Mattermost-WPF\obj\Debug\Mattermost-WPF.exe
+F:\My Documents\Projects\github.com\davidlu1997\Mattermost-WPF\obj\Debug\Mattermost-WPF.pdb
