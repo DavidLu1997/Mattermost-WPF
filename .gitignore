@@ -47,8 +47,8 @@ Temporary Items
 .apdisk
 
 # Visual Studio
-bin
-debug*/
-release*/
-obj*/
-obj/Debug*/
+[Bb]in
+[Dd]ebug*/
+[Rr]elease*/
+[Oo]bj*/
+[Oo]bj/[Dd]ebug*/
