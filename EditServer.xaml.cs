@@ -15,19 +15,13 @@ using System.Windows.Shapes;
 namespace Mattermost_WPF
 {
     /// <summary>
-    /// Interaction logic for SelectServer.xaml
+    /// Interaction logic for EditServer.xaml
     /// </summary>
-    public partial class SelectServer : Window
+    public partial class EditServer : Window
     {
-        public SelectServer()
+        public EditServer()
         {
             InitializeComponent();
-        }
-
-        private void AddNewServerButton_Click(object sender, RoutedEventArgs e)
-        {
-            EditServer editServer = new EditServer();
-            editServer.ShowDialog();
         }
     }
 }

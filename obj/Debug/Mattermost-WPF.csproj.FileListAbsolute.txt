@@ -12,17 +12,18 @@ F:\My Documents\Projects\github.com\davidlu1997\Mattermost-WPF\obj\Debug\Matterm
 F:\My Documents\Projects\github.com\davidlu1997\Mattermost-WPF\obj\Debug\Mattermost-WPF.csproj.GenerateResource.Cache
 F:\My Documents\Projects\github.com\davidlu1997\Mattermost-WPF\obj\Debug\Mattermost-WPF.exe
 F:\My Documents\Projects\github.com\davidlu1997\Mattermost-WPF\obj\Debug\Mattermost-WPF.pdb
-C:\Users\david\Documents\Projects\mattermost-wpf\bin\Debug\Mattermost-WPF.exe.config
 C:\Users\david\Documents\Projects\mattermost-wpf\bin\Debug\Mattermost-WPF.exe
-C:\Users\david\Documents\Projects\mattermost-wpf\bin\Debug\Mattermost-WPF.pdb
-C:\Users\david\Documents\Projects\mattermost-wpf\obj\Debug\Mattermost-WPF.csprojResolveAssemblyReference.cache
+C:\Users\david\Documents\Projects\mattermost-wpf\bin\Debug\Mattermost-WPF.exe.config
+C:\Users\david\Documents\Projects\mattermost-wpf\obj\Debug\EditServer.g.cs
 C:\Users\david\Documents\Projects\mattermost-wpf\obj\Debug\SelectServer.g.cs
 C:\Users\david\Documents\Projects\mattermost-wpf\obj\Debug\App.g.cs
 C:\Users\david\Documents\Projects\mattermost-wpf\obj\Debug\Mattermost-WPF_MarkupCompile.cache
 C:\Users\david\Documents\Projects\mattermost-wpf\obj\Debug\Mattermost-WPF_MarkupCompile.lref
+C:\Users\david\Documents\Projects\mattermost-wpf\obj\Debug\EditServer.baml
 C:\Users\david\Documents\Projects\mattermost-wpf\obj\Debug\SelectServer.baml
 C:\Users\david\Documents\Projects\mattermost-wpf\obj\Debug\Mattermost-WPF.g.resources
 C:\Users\david\Documents\Projects\mattermost-wpf\obj\Debug\Mattermost_WPF.Properties.Resources.resources
 C:\Users\david\Documents\Projects\mattermost-wpf\obj\Debug\Mattermost-WPF.csproj.GenerateResource.Cache
 C:\Users\david\Documents\Projects\mattermost-wpf\obj\Debug\Mattermost-WPF.exe
 C:\Users\david\Documents\Projects\mattermost-wpf\obj\Debug\Mattermost-WPF.pdb
+C:\Users\david\Documents\Projects\mattermost-wpf\bin\Debug\Mattermost-WPF.pdb
