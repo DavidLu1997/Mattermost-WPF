@@ -10,24 +10,18 @@ using System.Windows.Documents;
 using System.Windows.Input;
 using System.Windows.Media;
 using System.Windows.Media.Imaging;
-using System.Windows.Navigation;
 using System.Windows.Shapes;
 
 namespace Mattermost_WPF
 {
     /// <summary>
-    /// Interaction logic for MainWindow.xaml
+    /// Interaction logic for SelectServer.xaml
     /// </summary>
-    public partial class MainWindow : Window
+    public partial class SelectServer : Window
     {
-        public MainWindow()
+        public SelectServer()
         {
             InitializeComponent();
-        }
-
-        private void textBox_TextChanged(object sender, TextChangedEventArgs e)
-        {
-
         }
     }
 }

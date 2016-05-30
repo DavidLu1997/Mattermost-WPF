@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-F:\My Documents\Projects\github.com\davidlu1997\Mattermost-WPF\obj\Debug\
+C:\Users\david\Documents\Projects\mattermost-wpf\obj\Debug\
 Mattermost_WPF
 none
 false
 DEBUG;TRACE
-F:\My Documents\Projects\github.com\davidlu1997\Mattermost-WPF\App.xaml
-11151548125
+C:\Users\david\Documents\Projects\mattermost-wpf\App.xaml
+1278204498
 
-9-1378422223
+91744133074
 13738642453
-MainWindow.xaml;
+SelectServer.xaml;
 
-True
+False
 
