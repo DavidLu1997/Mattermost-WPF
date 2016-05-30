@@ -5,10 +5,13 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Mattermost_WPF"
         mc:Ignorable="d"
-        Title="Mattermost" Height="150" Width="300">
+        Title="Mattermost" Height="140" Width="300">
     <Grid>
-        <Button x:Name="button" Content="Proceed" HorizontalAlignment="Left" Margin="115,80,0,0" VerticalAlignment="Top" Width="70"/>
-        <ComboBox x:Name="comboBox" HorizontalAlignment="Left" Margin="50,40,0,0" VerticalAlignment="Top" Width="200"/>
-        <Label x:Name="label" Content="Select Server" HorizontalAlignment="Center" Margin="0,10,0,0" VerticalAlignment="Top" Width="81"/>
+        <Button x:Name="ProceedButton" Content="Proceed" HorizontalAlignment="Left" Margin="203,41,0,0" VerticalAlignment="Top" Width="70" Height="22"/>
+        <ComboBox x:Name="comboBox" HorizontalAlignment="Left" Margin="10,41,0,0" VerticalAlignment="Top" Width="176"/>
+        <Label x:Name="label" Content="Select Mattermost Server" HorizontalAlignment="Center" Margin="0,10,0,0" VerticalAlignment="Top" Width="150"/>
+        <Button x:Name="AddNewServerButton" Content="Add New" HorizontalAlignment="Left" Margin="10,68,0,0" VerticalAlignment="Top" Width="75"/>
+        <Button x:Name="EditServerButton" Content="Edit" HorizontalAlignment="Left" Margin="90,68,0,0" VerticalAlignment="Top" Width="38"/>
+        <Button x:Name="DeleteServerButton" Content="Delete" HorizontalAlignment="Left" VerticalAlignment="Top" Width="53" Margin="133,68,0,0"/>
     </Grid>
 </Window>
