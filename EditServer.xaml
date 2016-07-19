@@ -13,9 +13,9 @@
         <TextBox x:Name="ServerUrlBox" HorizontalAlignment="Left" Height="23" Margin="57,42,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" TabIndex="1"/>
         <TextBox x:Name="ServerPortBox" HorizontalAlignment="Left" Height="23" Margin="57,70,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" TabIndex="3"/>
         <Label x:Name="label2" Content="Port:" HorizontalAlignment="Left" Margin="20,67,0,0" VerticalAlignment="Top"/>
-        <CheckBox x:Name="checkBox" Content="Secure Connection" HorizontalAlignment="Left" Margin="57,98,0,0" VerticalAlignment="Top" IsChecked="True" TabIndex="4" ToolTip="Require a secured (HTTPS) connection"/>
-        <Button x:Name="SaveButton" Content="Save" HorizontalAlignment="Left" Margin="20,118,0,0" VerticalAlignment="Top" Width="75"/>
-        <Button x:Name="CancelButton" Content="Cancel" HorizontalAlignment="Left" Margin="102,118,0,0" VerticalAlignment="Top" Width="75"/>
+        <CheckBox x:Name="ServerSecureBox" Content="Secure Connection" HorizontalAlignment="Left" Margin="57,98,0,0" VerticalAlignment="Top" IsChecked="True" TabIndex="4" ToolTip="Require a secured (HTTPS) connection"/>
+        <Button x:Name="SaveButton" Content="Save" HorizontalAlignment="Left" Margin="20,118,0,0" VerticalAlignment="Top" Width="75" Click="SaveButton_Click"/>
+        <Button x:Name="CancelButton" Content="Cancel" HorizontalAlignment="Left" Margin="102,118,0,0" VerticalAlignment="Top" Width="75" Click="CancelButton_Click"/>
 
     </Grid>
 </Window>

@@ -61,6 +61,7 @@
     <Compile Include="EditServer.xaml.cs">
       <DependentUpon>EditServer.xaml</DependentUpon>
     </Compile>
+    <Compile Include="model\MattermostServer.cs" />
     <Compile Include="SelectServer.xaml.cs">
       <DependentUpon>SelectServer.xaml</DependentUpon>
     </Compile>
